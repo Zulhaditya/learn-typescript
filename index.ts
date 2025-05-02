@@ -1,7 +1,7 @@
 // cara buat project dan eksekusi file:
 // 1. npm install typescript --save-dev
 // 2. npx tsc --init (membuat file tsconfig.json)
-// 3. tsc nama-file.ts (jalankan program)
+// 3. ts-node nama-file.ts (jalankan program)
 
 // deklarasi variabel secara eksplisit / kita tentukan terlebih dahulu tipe datanya
 let firstName: string = "Ackxle";
