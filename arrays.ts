@@ -15,4 +15,3 @@ angka.push(4); // tidak error karena tipe datanya int
 // angka.push("5") // error karena tipe data tidak cocok
 let head: number = angka[0];
 console.log(head);
-
